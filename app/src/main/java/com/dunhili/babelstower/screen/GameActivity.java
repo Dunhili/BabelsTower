@@ -1,9 +1,11 @@
-package com.dunhili.babelstower;
+package com.dunhili.babelstower.screen;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import com.dunhili.babelstower.R;
 
 
 public class GameActivity extends ActionBarActivity {
